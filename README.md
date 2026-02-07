@@ -8,9 +8,9 @@
 
 📊 Data Description
 
-The analysis is based on data collected throughout the year 2019, encompassing daily performance metrics from both Facebook and Google AdWords campaigns. The dataset includes key features for each day:
+The analysis is based on data collected throughout the year 2025, encompassing daily performance metrics from both Facebook and Google AdWords campaigns. The dataset includes key features for each day:
 
-📅 Date :Specific date from January 1st, 2019 to December 31st, 2019.
+📅 Date :Specific date from January 1st, 2025 to December 31st, 2025.
 
 👀 Ad Views: Total number of ad impressions.
 
